@@ -3,3 +3,18 @@
 
 // Um ângulo será considerado inválido se não tiver um valor positivo.
 
+const anguloA = -80;
+const anguloB = 60;
+const anguloC = 30;
+
+let somaAngulos = anguloA + anguloB + anguloC;
+
+if(anguloA > 0 && anguloB > 0 && anguloC > 0){
+    if (somaAngulos === 180){
+        console.log (true);
+    } else {
+    console.log(false);
+    };
+} else {
+    console.log ("Erro: Angulo inválido");
+} 
