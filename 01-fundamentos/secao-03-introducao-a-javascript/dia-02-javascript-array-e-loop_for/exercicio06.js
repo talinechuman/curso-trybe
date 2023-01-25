@@ -1,7 +1,6 @@
 
 // Descubra quantos valores ímpares existem no array e imprima o resultado. Caso não exista nenhum, imprima a mensagem: “nenhum valor ímpar encontrado”;
 
-
 let numbers = [2,2,6,3];
 
 somaImpar = 0;
