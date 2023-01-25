@@ -1,4 +1,4 @@
-// Percorra o array imprimindo todos os valores nele contidos com a função console.log();
+// Some todos os valores contidos no array e imprima o resultado;
 
 soma = 0;
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
